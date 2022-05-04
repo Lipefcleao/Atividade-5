@@ -10,8 +10,8 @@ Quando o programa for executado, será solicitado um número inteiro, ele será 
 Para que o arquivo seja compilado, escreva:
   make
   
-Para executar o arquivo escreva:
+  Para executar o arquivo escreva:
   make run
   
-Para limpar após usar escreva:
+  Para limpar após usar escreva:
   make clean
